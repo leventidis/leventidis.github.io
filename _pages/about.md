@@ -16,7 +16,7 @@ My current research interests lie in Data Integration and more specifically in i
 * DomainNet: Homograph Detection for Data Lake Disambiguation.
 Aristotelis Leventidis, Laura Di Rocco, Wolfgang Gatterbauer, Renée J. Miller, Mirek Riedewald.<br>
 *EDBT 2021*<br> 
-[[pdf]](EDBT21-DomainNet-Homograph-Detection.pdf)
+[[pdf]](files/EDBT21-DomainNet-Homograph-Detection.pdf)
 
 * "QueryVis: Logic-based diagrams help users understand complicated SQL queries faster."
 Aristotelis Leventidis, Jiahui Zhang, Cody Dunne, Wolfgang Gatterbauer, HV Jagadish, Mirek Riedewald.<br>
