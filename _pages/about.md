@@ -15,16 +15,16 @@ My research interests lie in Data Integration and more specifically in identifyi
 
 # <ins>Publications</ins>
 - A Large Scale Test Corpus for Semantic Table Search. \
-Aristotelis Leventidis, Martin Pekár Christensen, Matteo Lissandrini, Laura Di Rocco, Katja Hose, Renée J. Miller \
+**Aristotelis Leventidis**, Martin Pekár Christensen, Matteo Lissandrini, Laura Di Rocco, Katja Hose, Renée J. Miller \
 *To Appear on SIGIR 2024*
 
 - DomainNet: Homograph Detection and Understanding in Data Lake Disambiguation. \
-Aristotelis Leventidis, Laura Di Rocco, Wolfgang Gatterbauer, Renée J. Miller, Mirek Riedewald. \
+**Aristotelis Leventidis**, Laura Di Rocco, Wolfgang Gatterbauer, Renée J. Miller, Mirek Riedewald. \
 *In ACM Transactions on Database Systems 48, no. 3 (2023): 1-40.* \
 [[Paper]](files/domain_net_TODS.pdf)
 
 - DomainNet: Homograph Detection for Data Lake Disambiguation. \
-Aristotelis Leventidis, Laura Di Rocco, Wolfgang Gatterbauer, Renée J. Miller, Mirek Riedewald. \
+**Aristotelis Leventidis**, Laura Di Rocco, Wolfgang Gatterbauer, Renée J. Miller, Mirek Riedewald. \
 *In Proceedings of the 24th International Conference on Extending Database Technology, {EDBT} 2021, Nicosia, Cyprus.* \
 <span style="color:brown">**Won EDBT 2021 Best Paper Award**</span> \
 [[Paper]](files/domain_net_EDBT.pdf)
