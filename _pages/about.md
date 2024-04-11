@@ -9,9 +9,9 @@ redirect_from:
 
 I am a PhD candidate at Northeastern University and part of the [DATA Lab](https://db.khoury.northeastern.edu/). I am very fortunate to be adviced by Prof. [Reneé J. Miller](https://www.khoury.northeastern.edu/people/renee-miller/).
 
-My research interests lie in Data Integration and more specifically in identifying, extracting and classifying semantic properties of data values in the context of large heterogenous data lakes.
+My research interests lie in Data Integration, specifically in identifying, extracting, and classifying semantic properties of data values in the context of large heterogenous data lakes as well as web tables.
 
-<span style="color:red">**I am currently on the job market looking for full time industry positions as a Data Scientist!**</span>
+<span style="color:red">**I am currently looking for full time jobs as a Data Scientist or Machine Learning Engineer!**</span>
 
 # <ins>Publications</ins>
 - A Large Scale Test Corpus for Semantic Table Search. \
