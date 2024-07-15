@@ -13,6 +13,8 @@ My research interests lie in Data Integration, specifically in identifying, extr
 
 <span style="color:red">**I am currently looking for full time jobs as a Data Scientist or Machine Learning Engineer!**</span>
 
+# [Resume](files/resume.pdf)
+
 # <ins>Publications</ins>
 - A Large Scale Test Corpus for Semantic Table Search. \
 **Aristotelis Leventidis**, Martin Pekár Christensen, Matteo Lissandrini, Laura Di Rocco, Katja Hose, Renée J. Miller \
