@@ -7,16 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at Northeastern University and part of the [DATA Lab](https://db.khoury.northeastern.edu/). I am very fortunate to be adviced by Prof. [Reneé J. Miller](https://www.khoury.northeastern.edu/people/renee-miller/).
+I am a PhD candidate at Northeastern University and part of the [DATA Lab](https://db.khoury.northeastern.edu/). I am very fortunate to be advised by Prof. [Reneé J. Miller](https://www.khoury.northeastern.edu/people/renee-miller/).
 
 My research interests lie in Data Integration, specifically in identifying, extracting, and classifying semantic properties of data values in the context of large heterogenous data lakes as well as web tables.
 
-<span style="color:red">**I am currently looking for full time jobs as a Data Scientist or Machine Learning Engineer!**</span>
+<span style="color:red">**I am currently on the job market looking for full time positions!**</span>
 
 # <ins>Publications</ins>
+- Fantastic Tables and Where to Find Them: Table Search in Semantic Data Lakes. \
+Martin Pekár Christensen, **Aristotelis Leventidis**, Matteo Lissandrini, Laura Di Rocco, Renée J. Miller, Katja Hose \
+*To Appear on EDBT 2025*
+
 - A Large Scale Test Corpus for Semantic Table Search. \
 **Aristotelis Leventidis**, Martin Pekár Christensen, Matteo Lissandrini, Laura Di Rocco, Katja Hose, Renée J. Miller \
-*To Appear on SIGIR 2024*
+*In Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval, pp. 1142-1151. 2024.*
+[[Paper]](files/sigir_2024_paper.pdf)
 
 - DomainNet: Homograph Detection and Understanding in Data Lake Disambiguation. \
 **Aristotelis Leventidis**, Laura Di Rocco, Wolfgang Gatterbauer, Renée J. Miller, Mirek Riedewald. \
