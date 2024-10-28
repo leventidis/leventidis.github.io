@@ -13,6 +13,8 @@ My research interests lie in Data Integration, specifically in identifying, extr
 
 <span style="color:red">**I am currently on the job market looking for full time positions!**</span>
 
+# [Resume](files/resume.pdf)
+
 # <ins>Publications</ins>
 - Fantastic Tables and Where to Find Them: Table Search in Semantic Data Lakes. \
 Martin Pekár Christensen, **Aristotelis Leventidis**, Matteo Lissandrini, Laura Di Rocco, Renée J. Miller, Katja Hose \
